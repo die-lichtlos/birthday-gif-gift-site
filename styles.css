@@ -63,23 +63,24 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("images/rickroll-happy.gif");
 }
 
-#gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+#gift-img-reaction:hover {
+    background-image: url("images/rickroll-reaction.gif");
 }
 
-#gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+#gift-img-one-word:hover {
+    background-image: url("images/rickroll-rickrolled.gif");
+    background-position: 0px -50px;
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+    background-image: url("images/rickroll-cool.gif");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("images/rickroll-stick-bug.gif");
 }
 
 #footer {
